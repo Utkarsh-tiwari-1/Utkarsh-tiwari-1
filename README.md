@@ -4,11 +4,11 @@
 
 # Utkarsh Tiwari
 
-### Android Developer · Java & Python Builder · Backend Explorer
+### Android Developer | Java & Python Builder | Backend Explorer
 
 I build practical software, learn by shipping, and turn ideas into clean,
-useful products. Right now I’m focused on Android development and growing my
-backend foundation with Spring Boot and REST APIs.
+useful products. Right now, I am focused on Android development and
+strengthening my backend foundation with Spring Boot and REST APIs.
 
 <p>
   <a href="https://github.com/Utkarsh-tiwari-1"><img src="https://img.shields.io/badge/GitHub-Utkarsh--tiwari--1-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
@@ -18,9 +18,9 @@ backend foundation with Spring Boot and REST APIs.
 
 </div>
 
-## What I’m building
+## What I am building
 
-- **Android applications** with a focus on useful flows and clean interfaces.
+- **Android applications** with a focus on useful user flows and clean interfaces.
 - **Java and Spring Boot services** while learning production-ready REST API design.
 - **Python tools** for automation, experiments, and multimedia workflows.
 - Stronger fundamentals through consistent projects, debugging, and iteration.
@@ -30,9 +30,9 @@ backend foundation with Spring Boot and REST APIs.
 | Project | What it shows |
 | --- | --- |
 | [Multimedia Lab](https://github.com/Utkarsh-tiwari-1/Multimedia-lab) | A Python toolkit for inspecting image, audio, and video metadata with readable reports and JSON output. |
-| [Profile README](https://github.com/Utkarsh-tiwari-1/Utkarsh-tiwari-1) | This page—kept intentionally focused on current learning and real work. |
 
-> More projects are in progress. I’m prioritizing useful, understandable builds over inflated project lists.
+More projects are in progress. I am prioritizing useful, understandable builds
+over inflated project lists.
 
 ## Current stack
 
@@ -44,7 +44,7 @@ backend foundation with Spring Boot and REST APIs.
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-### Backend, mobile & tools
+### Backend, mobile, and tools
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=111111)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
@@ -55,7 +55,7 @@ backend foundation with Spring Boot and REST APIs.
 ## How I work
 
 ```text
-Learn → Build → Test → Document → Improve
+Learn -> Build -> Test -> Document -> Improve
 ```
 
 I like projects that have a clear purpose, a small first version, and visible
@@ -72,9 +72,9 @@ software that people can actually use.
 
 </div>
 
-My contribution graph and pinned repositories below this profile README show
-the work I’m actively building. I keep the page focused on projects and
-learning rather than relying on third-party statistic cards.
+My contribution graph and pinned repositories showcase the work I am actively
+building. I keep this page focused on projects and learning rather than
+relying on third-party statistic cards.
 
 <div align="center">
 
@@ -82,9 +82,9 @@ learning rather than relying on third-party statistic cards.
 
 </div>
 
-## Let’s connect
+## Let's connect
 
-I’m open to learning opportunities, thoughtful collaboration, and conversations
+I am open to learning opportunities, thoughtful collaboration, and conversations
 about Android, Java, Python, and backend development.
 
 - **LinkedIn:** [utkarsh-tiwari-ut](https://linkedin.com/in/utkarsh-tiwari-ut)
