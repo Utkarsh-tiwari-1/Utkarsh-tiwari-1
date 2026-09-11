@@ -29,6 +29,7 @@ strengthening my backend foundation with Spring Boot and REST APIs.
 
 | Project | What it shows |
 | --- | --- |
+| [TailorTalk](https://github.com/Utkarsh-tiwari-1/TailorTalk) | An AI calendar-booking assistant built with FastAPI, LangChain, Streamlit, OpenRouter, and Google Calendar integration. |
 | [Multimedia Lab](https://github.com/Utkarsh-tiwari-1/Multimedia-lab) | A Python toolkit for inspecting image, audio, and video metadata with readable reports and JSON output. |
 
 More projects are in progress. I am prioritizing useful, understandable builds
@@ -51,6 +52,14 @@ over inflated project lists.
 ![REST APIs](https://img.shields.io/badge/REST_APIs-0F172A?style=flat-square&logo=fastapi&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+### AI and integrations
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-111827?style=flat-square&logo=openai&logoColor=white)
+![Google Calendar](https://img.shields.io/badge/Google_Calendar-4285F4?style=flat-square&logo=googlecalendar&logoColor=white)
 
 ## How I work
 
