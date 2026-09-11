@@ -78,7 +78,7 @@ learning rather than relying on third-party statistic cards.
 
 <div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=Utkarsh-tiwari-1&label=Profile%20views&color=2563eb&style=flat-square)
+<img src="./assets/collaboration-status.svg" width="310" alt="Open to collaboration">
 
 </div>
 

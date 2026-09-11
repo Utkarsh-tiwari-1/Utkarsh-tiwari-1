@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 310 42" role="img" aria-labelledby="title description">
+  <title id="title">Open to collaboration</title>
+  <desc id="description">Animated green status indicator followed by Open to collaboration.</desc>
+  <rect width="310" height="42" rx="21" fill="#0f172a" stroke="#334155"/>
+  <circle cx="25" cy="21" r="7" fill="#34d399">
+    <animate attributeName="r" values="7;9;7" dur="1.6s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;.45;1" dur="1.6s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="25" cy="21" r="12" fill="none" stroke="#34d399" stroke-opacity=".28">
+    <animate attributeName="r" values="9;15;9" dur="1.6s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values=".75;0;.75" dur="1.6s" repeatCount="indefinite"/>
+  </circle>
+  <text x="45" y="26" fill="#d1fae5" font-family="ui-sans-serif, system-ui, sans-serif" font-size="15" font-weight="600">Open to collaboration</text>
+</svg>
