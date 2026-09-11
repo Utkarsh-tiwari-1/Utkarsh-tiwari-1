@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="./assets/hero.svg" width="100%" alt="Animated Utkarsh Tiwari developer banner">
+
 # Utkarsh Tiwari
 
 ### Android Developer · Java & Python Builder · Backend Explorer

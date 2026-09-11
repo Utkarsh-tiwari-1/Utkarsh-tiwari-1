@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" role="img" aria-labelledby="title description">
+  <title id="title">Utkarsh Tiwari — animated developer banner</title>
+  <desc id="description">Animated banner for an Android, Java, Python and Spring Boot developer.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#08111f"/>
+      <stop offset="0.55" stop-color="#111c35"/>
+      <stop offset="1" stop-color="#172554"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22d3ee"/>
+      <stop offset="0.5" stop-color="#60a5fa"/>
+      <stop offset="1" stop-color="#a78bfa"/>
+    </linearGradient>
+    <radialGradient id="orb" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#38bdf8" stop-opacity="0.34"/>
+      <stop offset="1" stop-color="#38bdf8" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" fill="none" stroke="#93c5fd" stroke-opacity="0.08"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="300" rx="22" fill="url(#background)"/>
+  <rect width="1200" height="300" rx="22" fill="url(#grid)"/>
+  <circle cx="1040" cy="80" r="220" fill="url(#orb)">
+    <animate attributeName="cx" values="1040;930;1040" dur="9s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="80;160;80" dur="7s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="980" cy="240" r="120" fill="url(#orb)" opacity="0.6">
+    <animate attributeName="r" values="120;155;120" dur="6s" repeatCount="indefinite"/>
+  </circle>
+
+  <g fill="#bae6fd" opacity="0.7">
+    <circle cx="790" cy="48" r="2"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.4s" repeatCount="indefinite"/></circle>
+    <circle cx="900" cy="194" r="2"><animate attributeName="opacity" values="1;0.2;1" dur="3.2s" repeatCount="indefinite"/></circle>
+    <circle cx="1090" cy="150" r="2"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.8s" repeatCount="indefinite"/></circle>
+    <circle cx="730" cy="236" r="2"><animate attributeName="opacity" values="1;0.2;1" dur="3.6s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+    <rect x="64" y="48" width="116" height="28" rx="14" fill="#0f2747" stroke="#38bdf8" stroke-opacity="0.45"/>
+    <circle cx="82" cy="62" r="5" fill="#34d399">
+      <animate attributeName="opacity" values="1;0.35;1" dur="1.7s" repeatCount="indefinite"/>
+    </circle>
+    <text x="96" y="67" fill="#bae6fd" font-size="13">AVAILABLE</text>
+
+    <text x="64" y="137" fill="url(#accent)" font-size="45" font-weight="700" letter-spacing="2">UTKARSH TIWARI</text>
+    <text x="67" y="174" fill="#e0f2fe" font-size="18" letter-spacing="1">ANDROID  •  JAVA  •  PYTHON  •  SPRING BOOT</text>
+    <text x="67" y="225" fill="#94a3b8" font-size="16">building useful software, one commit at a time</text>
+    <text x="67" y="257" fill="#38bdf8" font-size="17">&gt; learn_build_improve<span fill="#e0f2fe">_</span>
+      <animate attributeName="opacity" values="1;1;0;0;1" dur="1.4s" repeatCount="indefinite"/>
+    </text>
+  </g>
+
+  <path d="M64 279H1136" stroke="url(#accent)" stroke-width="2" stroke-linecap="round" stroke-dasharray="8 18" opacity="0.8">
+    <animate attributeName="stroke-dashoffset" from="0" to="-52" dur="2s" repeatCount="indefinite"/>
+  </path>
+</svg>
