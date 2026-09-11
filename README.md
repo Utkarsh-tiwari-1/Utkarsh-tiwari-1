@@ -64,10 +64,15 @@ software that people can actually use.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Utkarsh-tiwari-1&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Utkarsh's GitHub statistics">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utkarsh-tiwari-1&layout=compact&hide_border=true&theme=transparent" alt="Utkarsh's most used languages">
+<a href="https://github.com/Utkarsh-tiwari-1?tab=repositories"><img src="https://img.shields.io/badge/Explore%20my%20repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"></a>
+<a href="https://github.com/Utkarsh-tiwari-1?tab=projects"><img src="https://img.shields.io/badge/See%20my%20projects-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="See projects"></a>
+<a href="https://github.com/Utkarsh-tiwari-1?tab=activity"><img src="https://img.shields.io/badge/View%20recent%20activity-16A34A?style=for-the-badge&logo=github&logoColor=white" alt="View activity"></a>
 
 </div>
+
+My contribution graph and pinned repositories below this profile README show
+the work I’m actively building. I keep the page focused on projects and
+learning rather than relying on third-party statistic cards.
 
 <div align="center">
 
